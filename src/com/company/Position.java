@@ -3,7 +3,7 @@ package com.company;
 public class Position {
     private int x, y;
 
-    Position(int x, int y){
+    Position(int y, int x){
         this.x = x;
         this.y = y;
     }
